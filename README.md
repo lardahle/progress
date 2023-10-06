@@ -1,4 +1,12 @@
 # Progress
+
+------------------------------------------------------------
+
+Call to action:
+I would like your discretion on creating a program (possibly LLM / NLP but I would like your advice if not) to curate ideal research pathways given a prompt of the researcher's capabilities and a database of all current research publications; I want to accelerate the ability of mankind to research in efficient and powerful directions, taking into account the impact the research would have across fields and therefor its priority.
+
+------------------------------------------------------------
+
 The goal of this project is to create a databasing tool to sort through past research articles and generate the ideal next steps to be researched.
 
 TL;DR - lineage based research paper databasing through citations in order to generate ideal research pathways for the most efficient progression of technology and humanity.
